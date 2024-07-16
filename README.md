@@ -20,13 +20,13 @@
 ### :woman_technologist: About Me :
 
 Я фронтенд-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  из Беларуси.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Дисциплинирован;
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Желание осваивать новые технологии и инструменты;
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+- :zap: Нацелен на результат;
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-your-vitalik-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vitalik170388)
+- :mailbox: Как со мной связаться:  [![Telegram Badge](https://img.shields.io/badge/Babajanyan-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vitalik170388)
 
 
 
