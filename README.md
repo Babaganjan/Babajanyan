@@ -12,7 +12,21 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=your-github-Babajanyan&style=flat-square&color=blue" alt=""/>
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
+### :woman_technologist: About Me :
+
+Я фронтенд-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  из Беларуси.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-your-vitalik-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vitalik170388)
 
 
 
