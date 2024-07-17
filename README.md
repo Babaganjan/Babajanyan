@@ -45,4 +45,10 @@
 ![Webflow](https://img.shields.io/badge/webflow-316192?style=for-the-badge&logo=webflow&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Babajanyan&hide_border=&locale=ru&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
 
