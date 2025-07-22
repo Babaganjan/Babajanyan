@@ -26,7 +26,7 @@
 
 - :zap: Нацелен на результат;
 
-- :mailbox: Как со мной связаться:  [![Telegram Badge](https://img.shields.io/badge/Babajanyan-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vitalik170388)
+- :mailbox: Как со мной связаться:  [![Telegram Badge](https://img.shields.io/badge/Babajanyan-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vitaly1822)
 
   ---
 
