@@ -19,7 +19,7 @@
 </div>
 ### :woman_technologist: Обо мне :
 
-Я фронтенд-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  из Беларуси.
+Я фронтенд-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  с 4,5 годами опыта.
 - :telescope: Дисциплинирован;
 
 - :seedling: Желание осваивать новые технологии и инструменты;
