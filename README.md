@@ -7,7 +7,7 @@
   <a href="https://www.youtube.com/@user-em5wx6jx6d">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://t.me/vitaly/1822">
+  <a href="https://t.me/vitaly1822">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
