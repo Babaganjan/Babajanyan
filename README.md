@@ -40,6 +40,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeSctipt-316192?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![REST API](https://img.shields.io/badge/REST_API-%2320232a.svg?style=for-the-badge&logo=rest_api&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23646CFF.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-%230081CB.svg?style=for-the-badge&logo=git&logoColor=white)
 ![PUG](https://img.shields.io/badge/pug-%2338B2AC.svg?style=for-the-badge&logo=pug&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
