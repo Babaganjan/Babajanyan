@@ -46,6 +46,7 @@
 ![Redux](https://img.shields.io/badge/redux-%23646CFF.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-%230081CB.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MUI](https://img.shields.io/badge/mui-%2338B2AC.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwind-%23E0234E.svg?style=for-the-badge&logo=tailwind&logoColor=white)
 ![Ant_Design](https://img.shields.io/badge/ant_design-%23E0234E.svg?style=for-the-badge&logo=ant_design&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Webflow](https://img.shields.io/badge/webflow-316192?style=for-the-badge&logo=webflow&logoColor=white)
